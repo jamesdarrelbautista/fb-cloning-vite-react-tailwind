@@ -1,10 +1,14 @@
 import './App.css'
 import LoginPage from './components/LoginPage'
+import NavHeader from './components/NavHeader'
+
+
 const App = () => {
   return (
-    <LoginPage>
-      
-    </LoginPage>
+    <>
+    {/* <LoginPage></LoginPage> */}
+    <NavHeader></NavHeader>
+    </>
   )
 }
 

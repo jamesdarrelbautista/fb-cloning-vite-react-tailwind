@@ -2,7 +2,7 @@
 const LoginPage = () => {
   return (
     <>
-      <div className="flex flex-col lg:flex-row gap-20 justify-center h-screen items-center bg-slate-100 pb-24">
+      <div className="flex flex-col lg:flex-row gap-20 justify-center h-screen items-center bg-blue-50 pb-24">
         <div className="flex flex-col gap-4">
           <div className="text-5xl font-bold text-blue-600 sm:text-center lg:text-start">facebook-clone</div>
           <div className="text-3xl font-normal sm:text-center lg:text-start ">
