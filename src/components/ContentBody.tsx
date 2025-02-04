@@ -43,7 +43,7 @@ const ContentBody = () => {
           <div className="text-slate-200 py-2">More</div>
         </div>
       </div>
-      <div className="flex bg-neutral-800 h-screen">
+      <div className="flex relative bg-neutral-800">
       <LowerLeftContent></LowerLeftContent>
       <LowerRightContent></LowerRightContent>
       </div>

@@ -1,7 +1,7 @@
 const LowerLeftContent = () => {
   return (
     <>
-      <div className="bg-neutral-700 relative top-5 left-50 w-[30%] rounded-lg">
+      <div className="bg-neutral-700 relative m-2 left-50 w-[30%] rounded-lg">
         <div className="flex flex-col gap-4 p-4 text-white">
           <div className="text-xl font-bold ">Intro</div>
           <div className="self-center text-center">
